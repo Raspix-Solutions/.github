@@ -1,5 +1,5 @@
 # Raspix Solutions
-## Hosting Dopasowany do Twoich Potrzeb
+**Hosting Dopasowany do Twoich Potrzeb**
 
 <!--
 
